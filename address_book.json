@@ -1,0 +1,13 @@
+{
+    "Serhii": {
+        "name": {
+            "value": "Serhii"
+        },
+        "phones": [
+            {
+                "value": "1231231231"
+            }
+        ],
+        "birthday": null
+    }
+}
